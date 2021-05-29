@@ -1,6 +1,8 @@
+# bootstrap\_navbar
+
 A Bootstrap nav bar that works with Django
 
-```html
+```markup
 {% load i18n static %}
 
 <nav class="navbar">
@@ -44,3 +46,4 @@ A Bootstrap nav bar that works with Django
   </div>
 </nav>
 ```
+

@@ -1,6 +1,9 @@
+# dev\_logging\_config
+
 Useful logging config for local development. Features:
-- logs INFO messages and above
-- all messages are shown in console
+
+* logs INFO messages and above
+* all messages are shown in console
 
 ```python
 LOGGING = {
@@ -17,3 +20,4 @@ LOGGING = {
     },
 }
 ```
+

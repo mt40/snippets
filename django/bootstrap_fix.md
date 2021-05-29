@@ -1,3 +1,5 @@
+# bootstrap\_fix
+
 When adding Bootstrap to Django, the admin UI will break a bit. This css can help fix the UI.
 
 ```css
@@ -43,3 +45,4 @@ form .submit-row a.closelink {
   overflow: visible;
 }
 ```
+

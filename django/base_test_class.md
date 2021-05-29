@@ -1,3 +1,5 @@
+# base\_test\_class
+
 ```python
 from django.test import TestCase
 from django.contrib.auth.models import User
@@ -12,3 +14,4 @@ class BaseTestCase(TestCase):
         self.admin = User.objects.create_superuser(username='admin', password='123')
         self.client.login(username='admin', password='123')
 ```
+

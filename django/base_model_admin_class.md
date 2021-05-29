@@ -1,3 +1,5 @@
+# base\_model\_admin\_class
+
 Useful base class for Django model.
 
 ```python
@@ -15,3 +17,4 @@ class BaseModelAdmin(admin.ModelAdmin):
             'create_time', 'update_time'
         )
 ```
+
