@@ -7,6 +7,7 @@
 * [c++](c++/README.md)
   * [Install library](c++/install-library.md)
 * [django](django/README.md)
+  * [integrate\_bootsrap](django/integrate_bootsrap.md)
   * [base\_test\_class](django/base_test_class.md)
   * [dev\_logging\_config](django/dev_logging_config.md)
   * [base\_model\_admin\_class](django/base_model_admin_class.md)
