@@ -7,6 +7,7 @@
 * [c++](c++/README.md)
   * [Install library](c++/install-library.md)
 * [django](django/README.md)
+  * [Fix widescreen UI with Bootstrap container](django/fix-widescreen-ui-with-bootstrap-container.md)
   * [auto\_refresh](django/auto_refresh.md)
   * [integrate\_bootsrap](django/integrate_bootsrap.md)
   * [base\_test\_class](django/base_test_class.md)
