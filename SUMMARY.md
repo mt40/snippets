@@ -18,6 +18,7 @@
   * [base\_test\_class](django/base_test_class.md)
   * [dev\_logging\_config](django/dev_logging_config.md)
   * [base\_model\_admin\_class](django/base_model_admin_class.md)
+  * [IntegrityError: duplicate key](django/integrityerror-duplicate-key.md)
 * [python](python/README.md)
   * [abstract\_class](python/abstract_class.md)
 
